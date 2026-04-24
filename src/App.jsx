@@ -1,5 +1,5 @@
 import { useState, useRef } from "react";
-import * as XLSX from "sheetjs";
+import * as XLSX from "xlsx";
 
 var WATCHLIST_TICKERS = [];
 
